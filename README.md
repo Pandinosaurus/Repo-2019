@@ -19,10 +19,6 @@
 <img src=https://github.com/RubensZimbres/Repo-2019/blob/master/networkx/Easter0.PNG>  
 
 
-<b>Pull Request to Microsoft's PySpark Predictive Maintenance model</b>    
-
-<img src=https://github.com/RubensZimbres/Repo-2019/blob/master/Spark/Pull_request_MS/Azure_Pull_Request.png>  
-
 <b>Time Series Forecasting with Tensorflow Probability</b>  
 
 <img src=https://github.com/RubensZimbres/Repo-2019/raw/master/Tensorflow/pics/Sales_Forecast_2.png>
